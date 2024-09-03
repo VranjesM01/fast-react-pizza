@@ -1,3 +1,3 @@
 # Fast React Pizza
 
-React project
+React project. Built for own portfolio.
